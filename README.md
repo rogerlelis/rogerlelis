@@ -5,11 +5,14 @@
 - Data Analyst specialized in extracting valuable insights and providing data-driven solutions to transform information into effective strategies.
 - Student of Analysis and Systems Development.
 
-### Language and Tools 💻        
-<img loading="lazy" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://img.icons8.com/?size=100&id=3764&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+### Daily Use 💻        
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+
+### Data Analyst 📈
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
 
 ### Exploring ❗ Learning 📑
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" />
 
 ### Contact Me 📧
 
