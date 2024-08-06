@@ -2,7 +2,7 @@
 ### 🌟 Hello, Deviverse! I'm Roger 🌟
 - Human resources system manager.
 - Passionate about turning ideas into exceptional digital experiences.
-- Front-End Developer working collaboratively with small businesses and designers.
+- Data Analyst specialized in extracting valuable insights and providing data-driven solutions, using Python to transform information into effective strategies.
 - Student of Analysis and Systems Development.
 
 ### Language and Tools 💻
