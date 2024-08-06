@@ -5,8 +5,13 @@
 - Data Analyst specialized in extracting valuable insights and providing data-driven solutions to transform information into effective strategies.
 - Student of Analysis and Systems Development.
 
-### Language and Tools 💻          https://img.icons8.com/?size=80&id=pIJdjOoL6KfU&format=png
-<img loading="lazy" src="https://img.icons8.com/?size=80&id=pIJdjOoL6KfU&format=png" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+### Language and Tools 💻        
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" />
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40" height="40" />
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" width="40" height="40" />
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" /> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
 
 ### Exploring ❗ Learning 📑
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> 
